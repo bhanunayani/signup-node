@@ -1,0 +1,38 @@
+body{
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-size: 34px;
+}
+form{
+    padding: 10px;
+    width : 500px;
+    display: inline-block;
+}
+header {
+    margin-top: 16px;
+    margin-bottom: 28px;
+}
+header a {
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  .container {
+    padding-left:16px;
+    padding-right: 35px;
+  }
